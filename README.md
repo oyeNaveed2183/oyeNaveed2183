@@ -19,7 +19,7 @@ For timely updates and resources, refer to the [BISE Lahore Matric Result page](
 BISE Lahore has left no stone unturned to make it easy for students to obtain their matric results through multiple methods. Here's how you can check yours:  
 
 1. **Online on the Official Website**  
-   - Visit the official website: [www.biselahore.com](http://www.biselahore.com).  
+   - Visit the official website. 
    - Go to the results section.  
    - Insert your roll number and proceed by clicking "Submit" to view your result.  
 
